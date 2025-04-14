@@ -1,0 +1,2 @@
+- Use `fetch` for HTTP requests, not the axios library
+- No need to install any UI libraries. Rely on just React and Tailwind for creating reusable UI components.
