@@ -16,5 +16,32 @@
     },
     "estimate": 930.8824204895075,
     "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The Dabbsson 1382Wh 2400W Solar Generator is a robust power supply that delivers high capacity and is ideal for off-grid applications. It features a rapid charging capability, reaching 80% charge in just 32 minutes. With an expandable capacity to 11.3kWh, it provides a powerful 2400W output, complemented by P-Boost mode for extra power when needed. This unit comes complete with a 120W solar panel and various output options including NEMA TT-30 and 100W USB-C ports for versatile charging.",
+      "price": 542.0,
+      "url": "https://www.dealnews.com/products/Dabbsson/Dabbsson-1382-Wh-2400-W-Solar-Generator/490718.html?iref=rss-c142"
+    },
+    "estimate": 1114.6207798596918,
+    "discount": 572.6207798596918
+  },
+  {
+    "deal": {
+      "product_description": "The Certified Refurb Acer Aspire 3 is equipped with a 6th-generation AMD Ryzen 5 7520U processor that boasts a speed of 2.8GHz. It features a generous 15.6-inch touchscreen display with a resolution of 1920 x 1080, providing crisp visuals. Additionally, this laptop is packed with 16GB of RAM and a substantial 1TB SSD for ample storage and smooth performance. Operating on Windows 11 Home, it is ideal for both productivity tasks and entertainment. As a certified refurbished model, it also comes with a 2-year Allstate warranty, ensuring peace of mind.",
+      "price": 271.0,
+      "url": "https://www.dealnews.com/products/Acer/Acer-Aspire-3-6-th-Gen-Ryzen-5-15-6-Touchscreen-Laptop/476367.html?iref=rss-c39"
+    },
+    "estimate": 672.2903556479266,
+    "discount": 401.2903556479266
+  },
+  {
+    "deal": {
+      "product_description": "The Refurb Apple MacBook Pro 14\" Laptop, equipped with an Apple M1 Pro chip, delivers exceptional performance with its 8-core CPU and 14-core GPU. It features a stunning 14.2-inch Liquid Retina XDR display, offering vibrant colors and sharp details for a superb viewing experience. With 16GB of RAM and a 1TB SSD, this laptop excels in multitasking and provides ample storage for files, applications, and media. Running macOS Monterey, it's perfect for creative professionals and everyday users alike, combining power and elegance in a sleek design.",
+      "price": 929.0,
+      "url": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Pro-M1-Pro-14-Laptop-w-16-GB-and-1-TB-2021/490838.html?iref=rss-c39"
+    },
+    "estimate": 1242.2848259018078,
+    "discount": 313.28482590180784
   }
 ]

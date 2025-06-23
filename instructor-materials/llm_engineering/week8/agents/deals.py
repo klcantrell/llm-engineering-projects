@@ -25,7 +25,7 @@ def extract(html_snippet: str) -> str:
     if snippet_div:
         description = snippet_div.get_text(strip=True)
         description = BeautifulSoup(description, 'html.parser').get_text()
-        description = re.sub('<[^<]+?>', '', description)
+        description = re.sub('<[^<]+?>', '', description) # should not be needed, BeautifulSoup's get_text() should handle this
         result = description.strip()
     else:
         result = html_snippet
